@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - 🙋‍♂️ I love connecting with new people and I adore the ones who share a vision to impact the world in a positive way.
 - ⚡ Fun fact: **I'm not an ML simp! :slightly_smiling_face:**
 
+<br><br>
+
 <a href="https://twitter.com/sagnik_20"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/twitter.svg?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/sagnik-chattopadhyaya/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg?raw=true" width="60"></a>
 <a href="https://youtube.com/c/learnoverflow"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/youtube.svg?raw=true" width="60"></a>
@@ -36,9 +38,9 @@ Here are some ideas to get you started:
 <a href="https://facebook.com/sagnik.chatterjee.9216"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/facebook.svg?raw=true" width="60"></a>
 <a href="https://instagram.com/sagnik20"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/instagram.svg?raw=true" width="60"></a>
 <a href="https://www.sagnik.engineer/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/wordpress.svg?raw=true" width="60"></a>
-
+<br><br>
 <img src="https://github-profile-trophy.vercel.app/?username=sagnik20&theme=onedark" width="100%">
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=sagnik20&show_icons=true&theme=tokyonight&count_private=true" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik20&layout=compact&theme=tokyonight" width="45.6%">
 
 
