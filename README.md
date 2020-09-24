@@ -29,7 +29,13 @@ Here are some ideas to get you started:
 - 🙋‍♂️ I love connecting with new people and I adore the ones who share a vision to impact the world in a positive way.
 - ⚡ Fun fact: **I'm not an ML simp! :slightly_smiling_face:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sagnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagnik-chattopadhyaya/)](https://www.linkedin.com/in/sagnik-chattopadhyaya/) [![Youtube Channel](https://img.shields.io/badge/-Learn%20Overflow-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/c/learnoverflow)](https://www.youtube.com/c/learnoverflow)
+<a href="https://twitter.com/sagnik_20"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/twitter.svg?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/sagnik-chattopadhyaya/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg?raw=true" width="60"></a>
+<a href="https://youtube.com/c/learnoverflow"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/youtube.svg?raw=true" width="60"></a>
+<a href="https://medium.com/@meshagy18"><img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_medium-sign.svg?raw=true" width="60"></a>
+<a href="https://facebook.com/sagnik.chatterjee.9216"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/facebook.svg?raw=true" width="60"></a>
+<a href="https://instagram.com/sagnik20"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/instagram.svg?raw=true" width="60"></a>
+<a href="https://www.sagnik.engineer/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/wordpress.svg?raw=true" width="60"></a>
 
 <img src="https://github-profile-trophy.vercel.app/?username=sagnik20&theme=onedark" width="100%">
 
