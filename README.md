@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m a Pythonista.
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#** & **Rust**
 - 👯 I’m looking to collaborate on **fun Open Source projects**
 - 🤔 I’m looking for help with **testing**
 - 💬 Ask me about **GitHub Actions**
