@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m a Pythonista.
+- 🔭 I love working in Java.
 - 🌱 I’m currently learning **Full Stack Development**
 - 👯 I’m looking to collaborate on **fun Open Source projects**
 - 🤔 I’m looking for help with **testing**
-- 💬 Ask me about **GitHub Actions**
+- 💬 Ask me about **Full stack Development**
 - 😄 Pronouns: **He/Him**
 - 🙋‍♂️ I love connecting with new people and I adore the ones who share a vision to impact the world in a positive way.
+- 📫 How to reach me : https://www.linkedin.com/in/sagnik-chattopadhyaya/
 - ⚡ Fun fact: **I'm not an ML simp! :slightly_smiling_face:**
 
 <br><br>
